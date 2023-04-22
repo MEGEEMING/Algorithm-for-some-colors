@@ -1,0 +1,720 @@
+blue yellow red orange purple
+purple blue yellow red orange
+orange purple blue yellow red
+red orange purple blue yellow
+yellow red orange purple blue
+
+yellow red blue purple orange
+orange blue purple red yellow
+red orange yellow blue purple
+purple yellow red orange blue
+blue purple orange yellow red
+
+purple red blue yellow orange
+red orange yellow purple blue
+blue yellow red orange purple
+yellow purple orange blue red
+orange blue purple red yellow
+
+orange purple yellow red blue
+yellow red purple blue orange
+blue yellow red orange purple
+purple blue orange yellow red
+red orange blue purple yellow
+
+blue orange purple red yellow
+yellow purple orange blue red
+red yellow blue purple orange
+orange blue red yellow purple
+purple red yellow orange blue
+
+orange purple blue red yellow
+blue orange red yellow purple
+yellow red purple blue orange
+purple blue yellow orange red
+red yellow orange purple blue
+
+orange yellow purple red blue
+purple orange red blue yellow
+blue purple orange yellow red
+red blue yellow orange purple
+yellow red blue purple orange
+
+orange blue yellow red purple
+yellow orange blue purple red
+purple red orange yellow blue
+red yellow purple blue orange
+blue purple red orange yellow
+
+yellow purple blue red orange
+orange red yellow blue purple
+blue orange purple yellow red
+purple yellow red orange blue
+red blue orange purple yellow
+
+red purple yellow blue orange
+orange red blue yellow purple
+purple yellow orange red blue
+yellow blue purple orange red
+blue orange red purple yellow
+
+red purple orange blue yellow
+yellow red blue orange purple
+purple orange red yellow blue
+orange blue yellow purple red
+blue yellow purple red orange
+
+yellow red blue orange purple
+purple orange yellow blue red
+red blue purple yellow orange
+orange yellow red purple blue
+blue purple orange red yellow
+
+purple yellow blue red orange
+yellow orange red blue purple
+blue purple orange yellow red
+orange red yellow purple blue
+red blue purple orange yellow
+
+purple yellow orange red blue
+yellow purple blue orange red
+orange blue red purple yellow
+red orange yellow blue purple
+blue red purple yellow orange
+
+blue yellow red orange purple
+red purple yellow blue orange
+yellow orange blue purple red
+orange red purple yellow blue
+purple blue orange red yellow
+
+yellow red purple blue orange
+orange purple yellow red blue
+blue yellow orange purple red
+red orange blue yellow purple
+purple blue red orange yellow
+
+blue orange red yellow purple
+yellow red purple orange blue
+red purple orange blue yellow
+purple yellow blue red orange
+orange blue yellow purple red
+
+yellow purple red orange blue
+orange yellow blue red purple
+purple orange yellow blue red
+blue red orange purple yellow
+red blue purple yellow orange
+
+yellow blue red orange purple
+red yellow purple blue orange
+purple orange blue yellow red
+orange red yellow purple blue
+blue purple orange red yellow
+
+yellow blue orange purple red
+red orange blue yellow purple
+blue red purple orange yellow
+purple yellow red blue orange
+orange purple yellow red blue
+
+orange yellow blue purple red
+red purple yellow orange blue
+blue orange red yellow purple
+yellow blue purple red orange
+purple red orange blue yellow
+
+yellow orange purple blue red
+orange purple yellow red blue
+purple red blue yellow orange
+red blue orange purple yellow
+blue yellow red orange purple
+
+orange red blue purple yellow
+yellow purple red blue orange
+purple blue orange yellow red
+red yellow purple orange blue
+blue orange yellow red purple
+
+blue yellow orange purple red
+yellow orange blue red purple
+purple blue red orange yellow
+red purple yellow blue orange
+orange red purple yellow blue
+
+purple yellow blue red orange
+blue orange yellow purple red
+orange red purple blue yellow
+red purple orange yellow blue
+yellow blue red orange purple
+
+yellow red blue orange purple
+blue purple red yellow orange
+purple orange yellow blue red
+orange yellow purple red blue
+red blue orange purple yellow
+
+yellow purple orange blue red
+blue yellow purple red orange
+red orange blue purple yellow
+orange blue red yellow purple
+purple red yellow orange blue
+
+orange purple yellow blue red
+yellow red orange purple blue
+purple blue red yellow orange
+red yellow blue orange purple
+blue orange purple red yellow
+
+red purple yellow blue orange
+orange red purple yellow blue
+yellow blue red orange purple
+purple orange blue red yellow
+blue yellow orange purple red
+
+red yellow orange purple blue
+yellow purple blue orange red
+orange blue purple red yellow
+purple red yellow blue orange
+blue orange red yellow purple
+
+purple red orange blue yellow
+blue purple yellow orange red
+orange yellow purple red blue
+yellow blue red purple orange
+red orange blue yellow purple
+
+red orange yellow blue purple
+yellow purple blue red orange
+orange blue purple yellow red
+purple yellow red orange blue
+blue red orange purple yellow
+
+blue purple yellow orange red
+purple yellow red blue orange
+red blue orange yellow purple
+orange red blue purple yellow
+yellow orange purple red blue
+
+orange blue yellow purple red
+purple orange red yellow blue
+blue purple orange red yellow
+yellow red blue orange purple
+red yellow purple blue orange
+
+yellow orange red blue purple
+orange blue purple red yellow
+purple yellow blue orange red
+blue red yellow purple orange
+red purple orange yellow blue
+
+orange yellow blue purple red
+purple orange red yellow blue
+blue red purple orange yellow
+yellow blue orange red purple
+red purple yellow blue orange
+
+blue yellow red orange purple
+orange purple yellow red blue
+yellow orange blue purple red
+purple red orange blue yellow
+red blue purple yellow orange
+
+purple red yellow orange blue
+red yellow purple blue orange
+blue orange red yellow purple
+orange purple blue red yellow
+yellow blue orange purple red
+
+orange yellow blue purple red
+blue red purple yellow orange
+red orange yellow blue purple
+purple blue orange red yellow
+yellow purple red orange blue
+
+orange yellow blue purple red
+purple red yellow orange blue
+red blue orange yellow purple
+yellow purple red blue orange
+blue orange purple red yellow
+
+purple orange yellow blue red
+orange red purple yellow blue
+red purple blue orange yellow
+yellow blue red purple orange
+blue yellow orange red purple
+
+orange blue purple yellow red
+red orange yellow purple blue
+yellow red blue orange purple
+purple yellow red blue orange
+blue purple orange red yellow
+
+purple orange yellow red blue
+red blue purple orange yellow
+blue yellow orange purple red
+orange red blue yellow purple
+yellow purple red blue orange
+
+purple yellow orange red blue
+blue purple yellow orange red
+red blue purple yellow orange
+orange red blue purple yellow
+yellow orange red blue purple
+
+blue yellow orange red purple
+purple orange blue yellow red
+yellow red purple orange blue
+red purple yellow blue orange
+orange blue red purple yellow
+
+purple orange yellow red blue
+blue red orange purple yellow
+yellow blue red orange purple
+orange purple blue yellow red
+red yellow purple blue orange
+
+orange purple blue red yellow
+blue yellow purple orange red
+red blue yellow purple orange
+yellow red orange blue purple
+purple orange red yellow blue
+
+red purple blue orange yellow
+blue orange purple yellow red
+purple yellow red blue orange
+orange red yellow purple blue
+yellow blue orange red purple
+
+red purple blue yellow orange
+orange red yellow purple blue
+yellow orange purple blue red
+purple blue orange red yellow
+blue yellow red orange purple
+
+orange yellow blue purple red
+purple orange red blue yellow
+red purple yellow orange blue
+blue red purple yellow orange
+yellow blue orange red purple
+
+red orange purple yellow blue
+yellow purple orange blue red
+purple red blue orange yellow
+orange blue yellow red purple
+blue yellow red purple orange
+
+orange red blue purple yellow
+yellow purple red orange blue
+purple blue yellow red orange
+blue orange purple yellow red
+red yellow orange blue purple
+
+yellow red purple blue orange
+red blue yellow orange purple
+orange yellow red purple blue
+purple orange blue yellow red
+blue purple orange red yellow
+
+yellow blue purple orange red
+red purple orange yellow blue
+purple orange blue red yellow
+blue red yellow purple orange
+orange yellow red blue purple
+
+red blue purple yellow orange
+yellow orange blue purple red
+purple red yellow orange blue
+orange purple red blue yellow
+blue yellow orange red purple
+
+orange yellow blue purple red
+blue orange red yellow purple
+red purple orange blue yellow
+yellow red purple orange blue
+purple blue yellow red orange
+
+purple orange red yellow blue
+orange blue yellow purple red
+red yellow blue orange purple
+blue purple orange red yellow
+yellow red purple blue orange
+
+purple yellow red blue orange
+red purple orange yellow blue
+blue red purple orange yellow
+orange blue yellow red purple
+yellow orange blue purple red
+
+yellow orange red purple blue
+blue yellow purple orange red
+purple blue orange red yellow
+red purple blue yellow orange
+orange red yellow blue purple
+
+purple blue yellow orange red
+blue red purple yellow orange
+red yellow orange purple blue
+orange purple red blue yellow
+yellow orange blue red purple
+
+orange purple blue yellow red
+red yellow purple orange blue
+purple blue yellow red orange
+blue red orange purple yellow
+yellow orange red blue purple
+
+yellow red orange purple blue
+blue purple red yellow orange
+purple blue yellow orange red
+orange yellow blue red purple
+red orange purple blue yellow
+
+yellow purple orange blue red
+orange yellow red purple blue
+red blue yellow orange purple
+blue orange purple red yellow
+purple red blue yellow orange
+
+orange purple yellow blue red
+yellow orange purple red blue
+blue yellow red orange purple
+purple red blue yellow orange
+red blue orange purple yellow
+
+orange purple blue red yellow
+blue red yellow orange purple
+red yellow purple blue orange
+yellow blue orange purple red
+purple orange red yellow blue
+
+purple orange blue yellow red
+red blue purple orange yellow
+blue yellow red purple orange
+orange red yellow blue purple
+yellow purple orange red blue
+
+blue red orange yellow purple
+purple yellow blue orange red
+orange purple red blue yellow
+yellow orange purple red blue
+red blue yellow purple orange
+
+purple blue yellow orange red
+blue yellow red purple orange
+orange purple blue red yellow
+red orange purple yellow blue
+yellow red orange blue purple
+
+yellow orange purple blue red
+red purple blue yellow orange
+purple blue orange red yellow
+blue red yellow orange purple
+orange yellow red purple blue
+
+yellow orange purple blue red
+blue purple yellow red orange
+red blue orange yellow purple
+purple yellow red orange blue
+orange red blue purple yellow
+
+yellow purple blue red orange
+purple orange yellow blue red
+red yellow purple orange blue
+blue red orange yellow purple
+orange blue red purple yellow
+
+yellow blue orange red purple
+red orange purple blue yellow
+purple red yellow orange blue
+blue purple red yellow orange
+orange yellow blue purple red
+
+blue red yellow purple orange
+red blue purple orange yellow
+orange purple red yellow blue
+yellow orange blue red purple
+purple yellow orange blue red
+
+orange blue red yellow purple
+blue red orange purple yellow
+purple yellow blue orange red
+yellow orange purple red blue
+red purple yellow blue orange
+
+orange blue red purple yellow
+purple yellow orange red blue
+yellow purple blue orange red
+red orange yellow blue purple
+blue red purple yellow orange
+
+blue red purple yellow orange
+purple orange red blue yellow
+red blue yellow orange purple
+orange yellow blue purple red
+yellow purple orange red blue
+
+red orange yellow blue purple
+purple yellow blue orange red
+yellow red orange purple blue
+blue purple red yellow orange
+orange blue purple red yellow
+
+red yellow purple blue orange
+purple orange red yellow blue
+orange red blue purple yellow
+yellow blue orange red purple
+blue purple yellow orange red
+
+purple orange yellow blue red
+yellow red blue purple orange
+red yellow purple orange blue
+orange blue red yellow purple
+blue purple orange red yellow
+
+red orange purple yellow blue
+yellow blue red orange purple
+orange yellow blue purple red
+blue purple yellow red orange
+purple red orange blue yellow
+
+orange red purple blue yellow
+red blue yellow orange purple
+yellow purple blue red orange
+purple orange red yellow blue
+blue yellow orange purple red
+
+purple orange blue red yellow
+orange blue yellow purple red
+red yellow orange blue purple
+yellow purple red orange blue
+blue red purple yellow orange
+
+yellow orange blue purple red
+orange purple red blue yellow
+purple red orange yellow blue
+red blue yellow orange purple
+blue yellow purple red orange
+
+red yellow blue purple orange
+blue purple red orange yellow
+yellow orange purple red blue
+orange red yellow blue purple
+purple blue orange yellow red
+
+red blue yellow purple orange
+yellow red blue orange purple
+orange purple red blue yellow
+purple yellow orange red blue
+blue orange purple yellow red
+
+purple blue red orange yellow
+red yellow blue purple orange
+orange red yellow blue purple
+yellow purple orange red blue
+blue orange purple yellow red
+
+orange blue yellow red purple
+blue yellow red purple orange
+yellow orange purple blue red
+purple red blue orange yellow
+red purple orange yellow blue
+
+orange purple blue yellow red
+purple blue orange red yellow
+yellow red purple blue orange
+red orange yellow purple blue
+blue yellow red orange purple
+
+orange blue red purple yellow
+yellow purple blue orange red
+purple orange yellow red blue
+red yellow purple blue orange
+blue red orange yellow purple
+
+red yellow blue purple orange
+orange purple red yellow blue
+purple blue orange red yellow
+yellow orange purple blue red
+blue red yellow orange purple
+
+red orange yellow purple blue
+orange blue red yellow purple
+blue yellow purple red orange
+yellow purple orange blue red
+purple red blue orange yellow
+
+red yellow purple blue orange
+orange red blue yellow purple
+yellow purple red orange blue
+blue orange yellow purple red
+purple blue orange red yellow
+
+orange red yellow purple blue
+blue purple orange yellow red
+red blue purple orange yellow
+yellow orange red blue purple
+purple yellow blue red orange
+
+purple yellow blue orange red
+blue red orange purple yellow
+orange blue yellow red purple
+red orange purple yellow blue
+yellow purple red blue orange
+
+blue red purple yellow orange
+yellow purple red orange blue
+orange yellow blue red purple
+red blue orange purple yellow
+purple orange yellow blue red
+
+blue orange yellow purple red
+red blue purple orange yellow
+orange red blue yellow purple
+purple yellow red blue orange
+yellow purple orange red blue
+
+yellow red blue purple orange
+red orange yellow blue purple
+orange yellow purple red blue
+blue purple orange yellow red
+purple blue red orange yellow
+
+blue orange red yellow purple
+red blue purple orange yellow
+purple red yellow blue orange
+yellow purple orange red blue
+orange yellow blue purple red
+
+orange purple red blue yellow
+purple red yellow orange blue
+blue yellow orange purple red
+red blue purple yellow orange
+yellow orange blue red purple
+
+purple blue yellow orange red
+red orange blue purple yellow
+orange yellow purple red blue
+blue red orange yellow purple
+yellow purple red blue orange
+
+red blue purple yellow orange
+orange purple blue red yellow
+purple yellow orange blue red
+yellow orange red purple blue
+blue red yellow orange purple
+
+blue purple orange red yellow
+yellow red purple blue orange
+orange blue yellow purple red
+purple orange red yellow blue
+red yellow blue orange purple
+
+purple yellow red orange blue
+blue orange yellow purple red
+red purple blue yellow orange
+orange red purple blue yellow
+yellow blue orange red purple
+
+yellow purple red blue orange
+red yellow purple orange blue
+blue orange yellow purple red
+orange red blue yellow purple
+purple blue orange red yellow
+
+red yellow purple blue orange
+yellow orange red purple blue
+blue purple orange yellow red
+purple red blue orange yellow
+orange blue yellow red purple
+
+yellow orange purple red blue
+purple blue yellow orange red
+red yellow orange blue purple
+blue purple red yellow orange
+orange red blue purple yellow
+
+purple yellow red blue orange
+yellow red orange purple blue
+blue orange purple yellow red
+red blue yellow orange purple
+orange purple blue red yellow
+
+orange purple red yellow blue
+red yellow blue purple orange
+yellow blue purple orange red
+blue orange yellow red purple
+purple red orange blue yellow
+
+blue purple yellow orange red
+red orange blue yellow purple
+yellow blue purple red orange
+purple red orange blue yellow
+orange yellow red purple blue
+
+red yellow purple blue orange
+purple red orange yellow blue
+blue purple red orange yellow
+orange blue yellow red purple
+yellow orange blue purple red
+
+purple orange red yellow blue
+blue red purple orange yellow
+yellow blue orange red purple
+orange purple yellow blue red
+red yellow blue purple orange
+
+blue red purple orange yellow
+orange yellow blue red purple
+purple orange red yellow blue
+yellow purple orange blue red
+red blue yellow purple orange
+
+blue yellow purple red orange
+purple blue red orange yellow
+red orange yellow purple blue
+orange purple blue yellow red
+yellow red orange blue purple
+
+red blue purple orange yellow
+yellow orange blue red purple
+blue yellow orange purple red
+purple red yellow blue orange
+orange purple red yellow blue
+
+purple yellow orange red blue
+blue orange yellow purple red
+orange purple red blue yellow
+red blue purple yellow orange
+yellow red blue orange purple
+
+red purple yellow blue orange
+purple blue orange yellow red
+yellow orange purple red blue
+blue yellow red orange purple
+orange red blue purple yellow
+
+yellow blue purple red orange
+orange yellow blue purple red
+purple red orange yellow blue
+blue purple red orange yellow
+red orange yellow blue purple
+
+blue purple red yellow orange
+orange red blue purple yellow
+red yellow orange blue purple
+purple orange yellow red blue
+yellow blue purple orange red
+
+red purple yellow blue orange
+orange blue red purple yellow
+blue yellow orange red purple
+yellow red purple orange blue
+purple orange blue yellow red
+
+blue purple red yellow orange
+orange yellow blue red purple
+purple orange yellow blue red
+red blue orange purple yellow
+yellow red purple orange blue
+
